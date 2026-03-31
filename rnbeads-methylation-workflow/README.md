@@ -1,3 +1,7 @@
+## Author
+
+Mine Caner – MSc Bioinformatics student at Saarland University
+
 # RnBeads Methylation Workflow
 
 This repository contains a structured R-based DNA methylation analysis workflow using the **RnBeads** package.
