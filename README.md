@@ -29,8 +29,27 @@ The original project was developed for academic use on local data and is shared 
 
 ## Repository Structure
 
-```text
-scripts/   Main analysis workflow
-data/      Input data folder placeholder
-results/   Output folder placeholder
-assets/    Optional figures or screenshots
+scripts/   Main analysis workflow  
+data/      Input data folder placeholder  
+results/   Output folder placeholder  
+assets/    Optional figures or screenshots  
+
+## Main Script
+
+scripts/methylation_workflow.R
+
+## Data Availability
+
+The original raw data files and sample annotation files are not included in this repository.
+
+## Important Note
+
+This repository is shared as a structured workflow archive.  
+Because the original local data and outputs are no longer available, the repository is intended primarily for documentation and portfolio purposes.
+
+## Skills Demonstrated
+
+- DNA methylation analysis  
+- Bioinformatics workflow organization  
+- Quality control and preprocessing  
+- R-based epigenomics analysis  
